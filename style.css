@@ -1,0 +1,51 @@
+body {
+background-image: url(/images/pexels-pixabay-417458.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.project{
+   font-weight: bold; 
+   color:limegreen ;
+}
+.font1 {
+   color:cyan;
+   font-family:fantasy
+}
+#sticky-navigation {
+   background: rgba(255,255,255,0);
+}
+.carousel-inner img {
+   width: 100%;
+   height: 100%;
+}
+.font2 {
+   font-size: 1.5rem;
+   line-height: 1.4;
+   letter-spacing: 0.5rem;
+   font-family: 'Major Mono Display', monospace;
+}
+.font3 {
+   font-family: 'Major Mono Display', monospace;
+}
+.cursor {
+   cursor: url(Snitch.png),auto;
+}
+element.style {
+   transition-delay: .4s;
+}
+.card:hover {
+   box-shadow: 0px 10px 10px cyan;
+   background-color: rgb(201, 41, 201);
+   transition: 1s;
+   transform:scale(1.2);
+   z-index:2;
+}
+.container { 
+   padding-left: 100px;
+   padding-right: 100px;
+ }
+ .d-flex {
+    padding-bottom: 30px;
+ }
+
+ 
